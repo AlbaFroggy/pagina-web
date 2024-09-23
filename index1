@@ -12,4 +12,7 @@
 <body>
     <p>Proyecto de local a remoto cooperativo</p>
 </body>
+<footer>
+    <p>Pie de página Git </p>
+</footer>    
 </html>
